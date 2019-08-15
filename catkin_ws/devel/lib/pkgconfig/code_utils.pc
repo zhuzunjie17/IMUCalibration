@@ -1,0 +1,8 @@
+prefix=/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/devel
+
+Name: code_utils
+Description: Description of code_utils
+Version: 0.0.0
+Cflags: -I/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/src/code_utils/include
+Libs: -L/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/devel/lib -lpolynomial -lcv_utils -lpnp
+Requires: roscpp std_msgs

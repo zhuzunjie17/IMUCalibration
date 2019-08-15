@@ -1,0 +1,8 @@
+# generated from catkin/cmake/template/pkg.context.pc.in
+CATKIN_PACKAGE_PREFIX = ""
+PROJECT_PKG_CONFIG_INCLUDE_DIRS = "/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/install/include".split(';') if "/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/install/include" != "" else []
+PROJECT_CATKIN_DEPENDS = "roscpp;std_msgs".replace(';', ' ')
+PKG_CONFIG_LIBRARIES_WITH_PREFIX = "-lpolynomial;-lcv_utils;-lpnp".split(';') if "-lpolynomial;-lcv_utils;-lpnp" != "" else []
+PROJECT_NAME = "code_utils"
+PROJECT_SPACE_DIR = "/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/install"
+PROJECT_VERSION = "0.0.0"

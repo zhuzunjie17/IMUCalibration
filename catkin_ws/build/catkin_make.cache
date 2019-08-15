@@ -1,0 +1,2 @@
+code_utils:imu_utils
+-DCATKIN_DEVEL_PREFIX=/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhuzunjie/Projects/IMUcalibration/catkin_ws/install -G Unix Makefiles
